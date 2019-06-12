@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Mac Pro",
+        "description": "Better than Better",
+        "startDate": "2018-10-02",
+        "endDate": "2020-10-02",
+        "isLifetimeWarranty": false,
+        "reminderDaysBefore": 12,
+        "imageName": "macpro",
+        "dateCreated": "2019-06-08",
+        "lastUpdated": "2020-10-02",
+        "recentlyDeleted": false,
+        "expired": false
+    },
+    {
+        "id": 2,
+        "name": "iPhone X",
+        "description": "Featured",
+        "startDate": "2018-10-02",
+        "endDate": "2020-10-02",
+        "isLifetimeWarranty": false,
+        "reminderDaysBefore": 12,
+        "imageName": "macpro",
+        "dateCreated": "2019-06-08",
+        "lastUpdated": "2020-10-02",
+        "recentlyDeleted": false,
+        "expired": false
+    },
+    {
+        "id": 3,
+        "name": "iPod Nano",
+        "description": "Featured",
+        "startDate": "2018-10-02",
+        "endDate": "2020-10-02",
+        "isLifetimeWarranty": false,
+        "reminderDaysBefore": 12,
+        "imageName": "macpro",
+        "dateCreated": "2019-06-08",
+        "lastUpdated": "2020-10-02",
+        "recentlyDeleted": false,
+        "expired": false
+    },
+    {
+        "id": 4,
+        "name": "Dyson Vacuum",
+        "description": "Featured",
+        "startDate": "2018-10-02",
+        "endDate": "2020-10-02",
+        "isLifetimeWarranty": false,
+        "reminderDaysBefore": 12,
+        "imageName": "macpro",
+        "dateCreated": "2019-06-08",
+        "lastUpdated": "2020-10-02",
+        "recentlyDeleted": false,
+        "expired": false
+    },
+    {
+        "id": 5,
+        "name": "Sink Faucet",
+        "description": "Featured",
+        "startDate": "2018-10-02",
+        "endDate": "2020-10-02",
+        "isLifetimeWarranty": false,
+        "reminderDaysBefore": 12,
+        "imageName": "macpro",
+        "dateCreated": "2019-06-08",
+        "lastUpdated": "2020-10-02",
+        "recentlyDeleted": false,
+        "expired": false
+    }
+]
